@@ -1,0 +1,3816 @@
+[
+  {
+    "external_id": "arbeitnow_0001_hashic",
+    "source": "arbeitnow",
+    "title": "Backend Engineer (Microservices)",
+    "company": "HashiCorp",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Backend Engineer (Microservices) at HashiCorp. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/1",
+    "remote": false,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "seed_0002_typefo",
+    "source": "seed",
+    "title": "Python + ML Engineer",
+    "company": "Typeform",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Python + ML Engineer at Typeform. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/2",
+    "remote": true,
+    "date_posted": "2026-05-02"
+  },
+  {
+    "external_id": "arbeitnow_0003_spotah",
+    "source": "arbeitnow",
+    "title": "Staff Engineer Python",
+    "company": "Spotahome",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Staff Engineer Python at Spotahome. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/3",
+    "remote": false,
+    "date_posted": "2026-05-15"
+  },
+  {
+    "external_id": "seed_0004_lingok",
+    "source": "seed",
+    "title": "Platform Engineer",
+    "company": "Lingokids",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Platform Engineer at Lingokids. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/4",
+    "remote": false,
+    "date_posted": "2026-04-13"
+  },
+  {
+    "external_id": "remotive_0005_typefo",
+    "source": "remotive",
+    "title": "Senior Python Engineer",
+    "company": "Typeform",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Senior Python Engineer at Typeform. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/5",
+    "remote": false,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "seed_0006_remote",
+    "source": "seed",
+    "title": "Python Developer (FastAPI)",
+    "company": "Remote",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Python Developer (FastAPI) at Remote. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/6",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "seed_0007_canoni",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Canonical",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Data Engineer Python + SQL at Canonical. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/7",
+    "remote": false,
+    "date_posted": "2026-04-28"
+  },
+  {
+    "external_id": "arbeitnow_0008_canoni",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "Canonical",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a AI/LLM Engineer at Canonical. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/8",
+    "remote": false,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "seed_0009_notion",
+    "source": "seed",
+    "title": "Backend Developer Python",
+    "company": "Notion",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Backend Developer Python at Notion. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/9",
+    "remote": false,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "arbeitnow_0010_notion",
+    "source": "arbeitnow",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Notion",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Backend Engineer (Microservices) at Notion. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/10",
+    "remote": false,
+    "date_posted": "2026-04-26"
+  },
+  {
+    "external_id": "arbeitnow_0011_stripe",
+    "source": "arbeitnow",
+    "title": "Fullstack Python Developer",
+    "company": "Stripe",
+    "location": "Remote",
+    "description": "We are looking for a Fullstack Python Developer at Stripe. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/11",
+    "remote": true,
+    "date_posted": "2026-05-15"
+  },
+  {
+    "external_id": "arbeitnow_0012_factor",
+    "source": "arbeitnow",
+    "title": "Cloud Engineer AWS/GCP",
+    "company": "Factorial",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Cloud Engineer AWS/GCP at Factorial. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/12",
+    "remote": false,
+    "date_posted": "2026-05-12"
+  },
+  {
+    "external_id": "remotive_0013_automa",
+    "source": "remotive",
+    "title": "Platform Engineer",
+    "company": "Automattic",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Platform Engineer at Automattic. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/13",
+    "remote": true,
+    "date_posted": "2026-04-19"
+  },
+  {
+    "external_id": "arbeitnow_0014_netlif",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "Netlify",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a AI/LLM Engineer at Netlify. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/14",
+    "remote": true,
+    "date_posted": "2026-04-22"
+  },
+  {
+    "external_id": "arbeitnow_0015_holded",
+    "source": "arbeitnow",
+    "title": "Flask Developer",
+    "company": "Holded",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Flask Developer at Holded. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/15",
+    "remote": false,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "seed_0016_mozill",
+    "source": "seed",
+    "title": "Fullstack Python Developer",
+    "company": "Mozilla",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Fullstack Python Developer at Mozilla. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/16",
+    "remote": false,
+    "date_posted": "2026-04-22"
+  },
+  {
+    "external_id": "arbeitnow_0017_spotah",
+    "source": "arbeitnow",
+    "title": "ML Engineer Python",
+    "company": "Spotahome",
+    "location": "Remote",
+    "description": "We are looking for a ML Engineer Python at Spotahome. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/17",
+    "remote": true,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "arbeitnow_0018_netlif",
+    "source": "arbeitnow",
+    "title": "ML Engineer Python",
+    "company": "Netlify",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a ML Engineer Python at Netlify. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/18",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "remotive_0019_ideali",
+    "source": "remotive",
+    "title": "Flask Developer",
+    "company": "Idealista",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Flask Developer at Idealista. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/19",
+    "remote": false,
+    "date_posted": "2026-05-12"
+  },
+  {
+    "external_id": "arbeitnow_0020_joband",
+    "source": "arbeitnow",
+    "title": "Senior Software Engineer",
+    "company": "Jobandtalent",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Senior Software Engineer at Jobandtalent. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/20",
+    "remote": true,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "seed_0021_wikime",
+    "source": "seed",
+    "title": "Backend Developer Python",
+    "company": "Wikimedia",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Backend Developer Python at Wikimedia. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/21",
+    "remote": false,
+    "date_posted": "2026-05-06"
+  },
+  {
+    "external_id": "seed_0022_lingok",
+    "source": "seed",
+    "title": "Django Developer",
+    "company": "Lingokids",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Django Developer at Lingokids. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/22",
+    "remote": true,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "remotive_0023_baseca",
+    "source": "remotive",
+    "title": "API Developer FastAPI",
+    "company": "Basecamp",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a API Developer FastAPI at Basecamp. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/23",
+    "remote": true,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "arbeitnow_0024_automa",
+    "source": "arbeitnow",
+    "title": "Fullstack Python Developer",
+    "company": "Automattic",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Fullstack Python Developer at Automattic. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/24",
+    "remote": false,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "seed_0025_flywir",
+    "source": "seed",
+    "title": "Node.js Backend Developer",
+    "company": "Flywire",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Node.js Backend Developer at Flywire. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/25",
+    "remote": false,
+    "date_posted": "2026-04-24"
+  },
+  {
+    "external_id": "arbeitnow_0026_remote",
+    "source": "arbeitnow",
+    "title": "Node.js Backend Developer",
+    "company": "Remote",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Node.js Backend Developer at Remote. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/26",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "seed_0027_baseca",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "Basecamp",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Senior Python Engineer at Basecamp. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/27",
+    "remote": false,
+    "date_posted": "2026-04-23"
+  },
+  {
+    "external_id": "remotive_0028_intern",
+    "source": "remotive",
+    "title": "API Developer FastAPI",
+    "company": "Internxt",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a API Developer FastAPI at Internxt. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/28",
+    "remote": true,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "seed_0029_remote",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "Remote",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Senior Python Engineer at Remote. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/29",
+    "remote": true,
+    "date_posted": "2026-04-23"
+  },
+  {
+    "external_id": "remotive_0030_badi",
+    "source": "remotive",
+    "title": "Go Developer",
+    "company": "Badi",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Go Developer at Badi. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/30",
+    "remote": false,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "seed_0031_lingok",
+    "source": "seed",
+    "title": "Staff Engineer Python",
+    "company": "Lingokids",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Staff Engineer Python at Lingokids. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/31",
+    "remote": false,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "arbeitnow_0032_stripe",
+    "source": "arbeitnow",
+    "title": "Platform Engineer",
+    "company": "Stripe",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Platform Engineer at Stripe. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/32",
+    "remote": true,
+    "date_posted": "2026-05-15"
+  },
+  {
+    "external_id": "seed_0033_cabify",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "Cabify",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Senior Python Engineer at Cabify. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/33",
+    "remote": true,
+    "date_posted": "2026-04-11"
+  },
+  {
+    "external_id": "remotive_0034_cloudf",
+    "source": "remotive",
+    "title": "Senior Software Engineer",
+    "company": "Cloudflare",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Senior Software Engineer at Cloudflare. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/34",
+    "remote": false,
+    "date_posted": "2026-05-07"
+  },
+  {
+    "external_id": "arbeitnow_0035_datado",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Datadog",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Datadog. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/35",
+    "remote": false,
+    "date_posted": "2026-05-10"
+  },
+  {
+    "external_id": "arbeitnow_0036_lingok",
+    "source": "arbeitnow",
+    "title": "Backend Developer Python",
+    "company": "Lingokids",
+    "location": "London, UK",
+    "description": "We are looking for a Backend Developer Python at Lingokids. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/36",
+    "remote": false,
+    "date_posted": "2026-04-08"
+  },
+  {
+    "external_id": "seed_0037_clarit",
+    "source": "seed",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Clarity AI",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Backend Engineer (Microservices) at Clarity AI. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/37",
+    "remote": false,
+    "date_posted": "2026-05-06"
+  },
+  {
+    "external_id": "seed_0038_bdeo",
+    "source": "seed",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Bdeo",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Backend Engineer (Microservices) at Bdeo. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/38",
+    "remote": false,
+    "date_posted": "2026-05-06"
+  },
+  {
+    "external_id": "seed_0039_mozill",
+    "source": "seed",
+    "title": "Senior Software Engineer",
+    "company": "Mozilla",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Senior Software Engineer at Mozilla. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/39",
+    "remote": false,
+    "date_posted": "2026-04-01"
+  },
+  {
+    "external_id": "arbeitnow_0040_glovo",
+    "source": "arbeitnow",
+    "title": "API Developer FastAPI",
+    "company": "Glovo",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a API Developer FastAPI at Glovo. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/40",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "seed_0041_datado",
+    "source": "seed",
+    "title": "Junior Python Developer",
+    "company": "Datadog",
+    "location": "Remote",
+    "description": "We are looking for a Junior Python Developer at Datadog. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/41",
+    "remote": true,
+    "date_posted": "2026-04-17"
+  },
+  {
+    "external_id": "remotive_0042_fever",
+    "source": "remotive",
+    "title": "Django Developer",
+    "company": "Fever",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Django Developer at Fever. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/42",
+    "remote": false,
+    "date_posted": "2026-04-18"
+  },
+  {
+    "external_id": "arbeitnow_0043_toptal",
+    "source": "arbeitnow",
+    "title": "API Developer FastAPI",
+    "company": "Toptal",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a API Developer FastAPI at Toptal. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/43",
+    "remote": true,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "arbeitnow_0044_buffer",
+    "source": "arbeitnow",
+    "title": "Software Engineer Backend",
+    "company": "Buffer",
+    "location": "London, UK",
+    "description": "We are looking for a Software Engineer Backend at Buffer. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/44",
+    "remote": false,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "seed_0045_badi",
+    "source": "seed",
+    "title": "Principal Backend Engineer",
+    "company": "Badi",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Principal Backend Engineer at Badi. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/45",
+    "remote": false,
+    "date_posted": "2026-04-08"
+  },
+  {
+    "external_id": "remotive_0046_gitlab",
+    "source": "remotive",
+    "title": "Node.js Backend Developer",
+    "company": "GitLab",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Node.js Backend Developer at GitLab. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/46",
+    "remote": true,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "seed_0047_joband",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "Jobandtalent",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Senior Python Engineer at Jobandtalent. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/47",
+    "remote": true,
+    "date_posted": "2026-04-27"
+  },
+  {
+    "external_id": "arbeitnow_0048_holded",
+    "source": "arbeitnow",
+    "title": "Python Developer (FastAPI)",
+    "company": "Holded",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Python Developer (FastAPI) at Holded. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/48",
+    "remote": true,
+    "date_posted": "2026-05-07"
+  },
+  {
+    "external_id": "seed_0049_joband",
+    "source": "seed",
+    "title": "AI/LLM Engineer",
+    "company": "Jobandtalent",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a AI/LLM Engineer at Jobandtalent. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/49",
+    "remote": true,
+    "date_posted": "2026-05-04"
+  },
+  {
+    "external_id": "arbeitnow_0050_typefo",
+    "source": "arbeitnow",
+    "title": "Flask Developer",
+    "company": "Typeform",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Flask Developer at Typeform. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/50",
+    "remote": false,
+    "date_posted": "2026-04-13"
+  },
+  {
+    "external_id": "arbeitnow_0051_fever",
+    "source": "arbeitnow",
+    "title": "API Developer FastAPI",
+    "company": "Fever",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a API Developer FastAPI at Fever. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/51",
+    "remote": true,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "seed_0052_figma",
+    "source": "seed",
+    "title": "Junior Python Developer",
+    "company": "Figma",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Junior Python Developer at Figma. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/52",
+    "remote": false,
+    "date_posted": "2026-04-06"
+  },
+  {
+    "external_id": "remotive_0053_wallbo",
+    "source": "remotive",
+    "title": "Data Engineer Python + SQL",
+    "company": "Wallbox",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Data Engineer Python + SQL at Wallbox. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/53",
+    "remote": true,
+    "date_posted": "2026-04-14"
+  },
+  {
+    "external_id": "seed_0054_twilio",
+    "source": "seed",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Twilio",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Backend Engineer (Microservices) at Twilio. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/54",
+    "remote": true,
+    "date_posted": "2026-05-02"
+  },
+  {
+    "external_id": "seed_0055_spotah",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Spotahome",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Data Engineer Python + SQL at Spotahome. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/55",
+    "remote": true,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "remotive_0056_elasti",
+    "source": "remotive",
+    "title": "Software Engineer Backend",
+    "company": "Elastic",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Software Engineer Backend at Elastic. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/56",
+    "remote": true,
+    "date_posted": "2026-04-22"
+  },
+  {
+    "external_id": "seed_0057_spotah",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Spotahome",
+    "location": "Remote",
+    "description": "We are looking for a Data Engineer Python + SQL at Spotahome. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/57",
+    "remote": true,
+    "date_posted": "2026-05-12"
+  },
+  {
+    "external_id": "arbeitnow_0058_supaba",
+    "source": "arbeitnow",
+    "title": "TypeScript Backend Engineer",
+    "company": "Supabase",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a TypeScript Backend Engineer at Supabase. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/58",
+    "remote": true,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "arbeitnow_0059_hashic",
+    "source": "arbeitnow",
+    "title": "Junior Python Developer",
+    "company": "HashiCorp",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Junior Python Developer at HashiCorp. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/59",
+    "remote": false,
+    "date_posted": "2026-05-02"
+  },
+  {
+    "external_id": "arbeitnow_0060_badi",
+    "source": "arbeitnow",
+    "title": "Junior Python Developer",
+    "company": "Badi",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Junior Python Developer at Badi. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/60",
+    "remote": true,
+    "date_posted": "2026-04-07"
+  },
+  {
+    "external_id": "seed_0061_elasti",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Elastic",
+    "location": "London, UK",
+    "description": "We are looking for a Data Engineer Python + SQL at Elastic. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/61",
+    "remote": false,
+    "date_posted": "2026-05-03"
+  },
+  {
+    "external_id": "arbeitnow_0062_lingok",
+    "source": "arbeitnow",
+    "title": "Python + ML Engineer",
+    "company": "Lingokids",
+    "location": "Remote",
+    "description": "We are looking for a Python + ML Engineer at Lingokids. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/62",
+    "remote": true,
+    "date_posted": "2026-05-12"
+  },
+  {
+    "external_id": "remotive_0063_spotah",
+    "source": "remotive",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Spotahome",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Backend Engineer (Microservices) at Spotahome. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/63",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "seed_0064_buffer",
+    "source": "seed",
+    "title": "Backend Developer Python",
+    "company": "Buffer",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Backend Developer Python at Buffer. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/64",
+    "remote": false,
+    "date_posted": "2026-05-07"
+  },
+  {
+    "external_id": "seed_0065_wallbo",
+    "source": "seed",
+    "title": "Django Developer",
+    "company": "Wallbox",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Django Developer at Wallbox. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/65",
+    "remote": true,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "remotive_0066_factor",
+    "source": "remotive",
+    "title": "Python Developer (FastAPI)",
+    "company": "Factorial",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Python Developer (FastAPI) at Factorial. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/66",
+    "remote": false,
+    "date_posted": "2026-04-17"
+  },
+  {
+    "external_id": "arbeitnow_0067_intern",
+    "source": "arbeitnow",
+    "title": "TypeScript Backend Engineer",
+    "company": "Internxt",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a TypeScript Backend Engineer at Internxt. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/67",
+    "remote": true,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "arbeitnow_0068_automa",
+    "source": "arbeitnow",
+    "title": "Flask Developer",
+    "company": "Automattic",
+    "location": "London, UK",
+    "description": "We are looking for a Flask Developer at Automattic. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/68",
+    "remote": false,
+    "date_posted": "2026-05-12"
+  },
+  {
+    "external_id": "seed_0069_turing",
+    "source": "seed",
+    "title": "Node.js Backend Developer",
+    "company": "Turing",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Node.js Backend Developer at Turing. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/69",
+    "remote": true,
+    "date_posted": "2026-04-01"
+  },
+  {
+    "external_id": "remotive_0070_remote",
+    "source": "remotive",
+    "title": "API Developer FastAPI",
+    "company": "Remote",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a API Developer FastAPI at Remote. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/70",
+    "remote": true,
+    "date_posted": "2026-04-15"
+  },
+  {
+    "external_id": "remotive_0071_badi",
+    "source": "remotive",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Badi",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Badi. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/71",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "remotive_0072_cabify",
+    "source": "remotive",
+    "title": "Platform Engineer",
+    "company": "Cabify",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Platform Engineer at Cabify. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/72",
+    "remote": false,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "arbeitnow_0073_elasti",
+    "source": "arbeitnow",
+    "title": "Senior Python Engineer",
+    "company": "Elastic",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Senior Python Engineer at Elastic. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/73",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "seed_0074_vercel",
+    "source": "seed",
+    "title": "Software Engineer Backend",
+    "company": "Vercel",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Software Engineer Backend at Vercel. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/74",
+    "remote": false,
+    "date_posted": "2026-04-01"
+  },
+  {
+    "external_id": "arbeitnow_0075_toptal",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Toptal",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Toptal. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/75",
+    "remote": false,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "remotive_0076_bdeo",
+    "source": "remotive",
+    "title": "Remote Django Developer",
+    "company": "Bdeo",
+    "location": "London, UK",
+    "description": "We are looking for a Remote Django Developer at Bdeo. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/76",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "seed_0077_gitlab",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "GitLab",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Senior Python Engineer at GitLab. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/77",
+    "remote": false,
+    "date_posted": "2026-05-03"
+  },
+  {
+    "external_id": "seed_0078_factor",
+    "source": "seed",
+    "title": "TypeScript Backend Engineer",
+    "company": "Factorial",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a TypeScript Backend Engineer at Factorial. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/78",
+    "remote": false,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "arbeitnow_0079_holded",
+    "source": "arbeitnow",
+    "title": "Full Stack Developer React + Node",
+    "company": "Holded",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Full Stack Developer React + Node at Holded. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/79",
+    "remote": true,
+    "date_posted": "2026-04-18"
+  },
+  {
+    "external_id": "arbeitnow_0080_cabify",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Cabify",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Remote Django Developer at Cabify. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/80",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "arbeitnow_0081_notion",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Notion",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Remote Django Developer at Notion. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/81",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "arbeitnow_0082_twilio",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Twilio",
+    "location": "London, UK",
+    "description": "We are looking for a Remote Django Developer at Twilio. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/82",
+    "remote": false,
+    "date_posted": "2026-05-11"
+  },
+  {
+    "external_id": "seed_0083_gitlab",
+    "source": "seed",
+    "title": "Fullstack Python Developer",
+    "company": "GitLab",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Fullstack Python Developer at GitLab. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/83",
+    "remote": false,
+    "date_posted": "2026-05-11"
+  },
+  {
+    "external_id": "remotive_0084_buffer",
+    "source": "remotive",
+    "title": "Full Stack Developer React + Node",
+    "company": "Buffer",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Full Stack Developer React + Node at Buffer. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/84",
+    "remote": true,
+    "date_posted": "2026-04-27"
+  },
+  {
+    "external_id": "remotive_0085_wallbo",
+    "source": "remotive",
+    "title": "Python Developer (FastAPI)",
+    "company": "Wallbox",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Python Developer (FastAPI) at Wallbox. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/85",
+    "remote": false,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "arbeitnow_0086_supaba",
+    "source": "arbeitnow",
+    "title": "Junior Python Developer",
+    "company": "Supabase",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Junior Python Developer at Supabase. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/86",
+    "remote": true,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "arbeitnow_0087_intern",
+    "source": "arbeitnow",
+    "title": "Python Developer (FastAPI)",
+    "company": "Internxt",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Python Developer (FastAPI) at Internxt. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/87",
+    "remote": false,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "remotive_0088_spotah",
+    "source": "remotive",
+    "title": "Staff Engineer Python",
+    "company": "Spotahome",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Staff Engineer Python at Spotahome. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/88",
+    "remote": false,
+    "date_posted": "2026-05-06"
+  },
+  {
+    "external_id": "arbeitnow_0089_baseca",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Basecamp",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Remote Django Developer at Basecamp. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/89",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "seed_0090_twilio",
+    "source": "seed",
+    "title": "Principal Backend Engineer",
+    "company": "Twilio",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Twilio. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/90",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "remotive_0091_hashic",
+    "source": "remotive",
+    "title": "Backend Developer Python",
+    "company": "HashiCorp",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Backend Developer Python at HashiCorp. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/91",
+    "remote": true,
+    "date_posted": "2026-04-25"
+  },
+  {
+    "external_id": "remotive_0092_elasti",
+    "source": "remotive",
+    "title": "Data Engineer Python + SQL",
+    "company": "Elastic",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Data Engineer Python + SQL at Elastic. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/92",
+    "remote": false,
+    "date_posted": "2026-04-11"
+  },
+  {
+    "external_id": "remotive_0093_notion",
+    "source": "remotive",
+    "title": "Software Engineer Backend",
+    "company": "Notion",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Software Engineer Backend at Notion. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/93",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "arbeitnow_0094_holded",
+    "source": "arbeitnow",
+    "title": "Go Developer",
+    "company": "Holded",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Go Developer at Holded. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/94",
+    "remote": true,
+    "date_posted": "2026-04-18"
+  },
+  {
+    "external_id": "arbeitnow_0095_fever",
+    "source": "arbeitnow",
+    "title": "ML Engineer Python",
+    "company": "Fever",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a ML Engineer Python at Fever. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/95",
+    "remote": false,
+    "date_posted": "2026-05-02"
+  },
+  {
+    "external_id": "remotive_0096_gitlab",
+    "source": "remotive",
+    "title": "Django Developer",
+    "company": "GitLab",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Django Developer at GitLab. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/96",
+    "remote": true,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "arbeitnow_0097_bdeo",
+    "source": "arbeitnow",
+    "title": "Go Developer",
+    "company": "Bdeo",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Go Developer at Bdeo. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/97",
+    "remote": true,
+    "date_posted": "2026-04-14"
+  },
+  {
+    "external_id": "seed_0098_elasti",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Elastic",
+    "location": "London, UK",
+    "description": "We are looking for a Data Engineer Python + SQL at Elastic. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/98",
+    "remote": false,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "remotive_0099_typefo",
+    "source": "remotive",
+    "title": "Principal Backend Engineer",
+    "company": "Typeform",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Typeform. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/99",
+    "remote": false,
+    "date_posted": "2026-04-19"
+  },
+  {
+    "external_id": "arbeitnow_0100_automa",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Automattic",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Automattic. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/100",
+    "remote": true,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "arbeitnow_0101_mozill",
+    "source": "arbeitnow",
+    "title": "Node.js Backend Developer",
+    "company": "Mozilla",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Node.js Backend Developer at Mozilla. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/101",
+    "remote": false,
+    "date_posted": "2026-04-30"
+  },
+  {
+    "external_id": "arbeitnow_0102_figma",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Figma",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Figma. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/102",
+    "remote": true,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "seed_0103_badi",
+    "source": "seed",
+    "title": "Staff Engineer Python",
+    "company": "Badi",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Staff Engineer Python at Badi. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/103",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "remotive_0104_mozill",
+    "source": "remotive",
+    "title": "Django Developer",
+    "company": "Mozilla",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Django Developer at Mozilla. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/104",
+    "remote": false,
+    "date_posted": "2026-04-22"
+  },
+  {
+    "external_id": "seed_0105_buffer",
+    "source": "seed",
+    "title": "ML Engineer Python",
+    "company": "Buffer",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a ML Engineer Python at Buffer. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/105",
+    "remote": false,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "arbeitnow_0106_intern",
+    "source": "arbeitnow",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Internxt",
+    "location": "London, UK",
+    "description": "We are looking for a Backend Engineer (Microservices) at Internxt. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/106",
+    "remote": false,
+    "date_posted": "2026-04-22"
+  },
+  {
+    "external_id": "arbeitnow_0107_toptal",
+    "source": "arbeitnow",
+    "title": "Senior Python Engineer",
+    "company": "Toptal",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Senior Python Engineer at Toptal. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/107",
+    "remote": true,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "seed_0108_twilio",
+    "source": "seed",
+    "title": "Go Developer",
+    "company": "Twilio",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Go Developer at Twilio. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/108",
+    "remote": false,
+    "date_posted": "2026-04-16"
+  },
+  {
+    "external_id": "seed_0109_factor",
+    "source": "seed",
+    "title": "Node.js Backend Developer",
+    "company": "Factorial",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Node.js Backend Developer at Factorial. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/109",
+    "remote": true,
+    "date_posted": "2026-04-11"
+  },
+  {
+    "external_id": "seed_0110_glovo",
+    "source": "seed",
+    "title": "Flask Developer",
+    "company": "Glovo",
+    "location": "London, UK",
+    "description": "We are looking for a Flask Developer at Glovo. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/110",
+    "remote": false,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "arbeitnow_0111_automa",
+    "source": "arbeitnow",
+    "title": "Platform Engineer",
+    "company": "Automattic",
+    "location": "London, UK",
+    "description": "We are looking for a Platform Engineer at Automattic. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/111",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "remotive_0112_cabify",
+    "source": "remotive",
+    "title": "Flask Developer",
+    "company": "Cabify",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Flask Developer at Cabify. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/112",
+    "remote": false,
+    "date_posted": "2026-04-27"
+  },
+  {
+    "external_id": "seed_0113_notion",
+    "source": "seed",
+    "title": "Backend Developer Python",
+    "company": "Notion",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Backend Developer Python at Notion. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/113",
+    "remote": false,
+    "date_posted": "2026-04-15"
+  },
+  {
+    "external_id": "arbeitnow_0114_figma",
+    "source": "arbeitnow",
+    "title": "Principal Backend Engineer",
+    "company": "Figma",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Figma. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/114",
+    "remote": false,
+    "date_posted": "2026-04-03"
+  },
+  {
+    "external_id": "arbeitnow_0115_gitlab",
+    "source": "arbeitnow",
+    "title": "Senior Python Engineer",
+    "company": "GitLab",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Senior Python Engineer at GitLab. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/115",
+    "remote": false,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "seed_0116_spotah",
+    "source": "seed",
+    "title": "Flask Developer",
+    "company": "Spotahome",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Flask Developer at Spotahome. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/116",
+    "remote": true,
+    "date_posted": "2026-05-04"
+  },
+  {
+    "external_id": "remotive_0117_typefo",
+    "source": "remotive",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Typeform",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Backend Engineer (Microservices) at Typeform. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/117",
+    "remote": false,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "remotive_0118_spotah",
+    "source": "remotive",
+    "title": "AI/LLM Engineer",
+    "company": "Spotahome",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a AI/LLM Engineer at Spotahome. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/118",
+    "remote": false,
+    "date_posted": "2026-04-28"
+  },
+  {
+    "external_id": "arbeitnow_0119_twilio",
+    "source": "arbeitnow",
+    "title": "Data Engineer Python + SQL",
+    "company": "Twilio",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Data Engineer Python + SQL at Twilio. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/119",
+    "remote": false,
+    "date_posted": "2026-04-20"
+  },
+  {
+    "external_id": "arbeitnow_0120_glovo",
+    "source": "arbeitnow",
+    "title": "Staff Engineer Python",
+    "company": "Glovo",
+    "location": "London, UK",
+    "description": "We are looking for a Staff Engineer Python at Glovo. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/120",
+    "remote": false,
+    "date_posted": "2026-04-06"
+  },
+  {
+    "external_id": "remotive_0121_lingok",
+    "source": "remotive",
+    "title": "Flask Developer",
+    "company": "Lingokids",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Flask Developer at Lingokids. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/121",
+    "remote": true,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "seed_0122_mozill",
+    "source": "seed",
+    "title": "Data Engineer Python + SQL",
+    "company": "Mozilla",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Data Engineer Python + SQL at Mozilla. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/122",
+    "remote": false,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "arbeitnow_0123_wallbo",
+    "source": "arbeitnow",
+    "title": "Junior Python Developer",
+    "company": "Wallbox",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Junior Python Developer at Wallbox. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/123",
+    "remote": true,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "arbeitnow_0124_fever",
+    "source": "arbeitnow",
+    "title": "Python Developer (FastAPI)",
+    "company": "Fever",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Python Developer (FastAPI) at Fever. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/124",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "seed_0125_vercel",
+    "source": "seed",
+    "title": "AI/LLM Engineer",
+    "company": "Vercel",
+    "location": "London, UK",
+    "description": "We are looking for a AI/LLM Engineer at Vercel. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/125",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "arbeitnow_0126_gitlab",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "GitLab",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a AI/LLM Engineer at GitLab. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/126",
+    "remote": false,
+    "date_posted": "2026-05-11"
+  },
+  {
+    "external_id": "remotive_0127_vercel",
+    "source": "remotive",
+    "title": "Node.js Backend Developer",
+    "company": "Vercel",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Node.js Backend Developer at Vercel. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/127",
+    "remote": true,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "arbeitnow_0128_intern",
+    "source": "arbeitnow",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Internxt",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Backend Engineer (Microservices) at Internxt. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/128",
+    "remote": true,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "seed_0129_badi",
+    "source": "seed",
+    "title": "Principal Backend Engineer",
+    "company": "Badi",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Principal Backend Engineer at Badi. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/129",
+    "remote": true,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "arbeitnow_0130_cabify",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Cabify",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Remote Django Developer at Cabify. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/130",
+    "remote": true,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "seed_0131_cloudf",
+    "source": "seed",
+    "title": "TypeScript Backend Engineer",
+    "company": "Cloudflare",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a TypeScript Backend Engineer at Cloudflare. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/131",
+    "remote": true,
+    "date_posted": "2026-05-15"
+  },
+  {
+    "external_id": "seed_0132_turing",
+    "source": "seed",
+    "title": "Django Developer",
+    "company": "Turing",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Django Developer at Turing. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/132",
+    "remote": true,
+    "date_posted": "2026-05-03"
+  },
+  {
+    "external_id": "arbeitnow_0133_figma",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "Figma",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a AI/LLM Engineer at Figma. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/133",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "seed_0134_fever",
+    "source": "seed",
+    "title": "Remote Django Developer",
+    "company": "Fever",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Remote Django Developer at Fever. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/134",
+    "remote": true,
+    "date_posted": "2026-04-15"
+  },
+  {
+    "external_id": "arbeitnow_0135_joband",
+    "source": "arbeitnow",
+    "title": "Principal Backend Engineer",
+    "company": "Jobandtalent",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Jobandtalent. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/135",
+    "remote": false,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "seed_0136_lingok",
+    "source": "seed",
+    "title": "Fullstack Python Developer",
+    "company": "Lingokids",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Fullstack Python Developer at Lingokids. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/136",
+    "remote": false,
+    "date_posted": "2026-04-16"
+  },
+  {
+    "external_id": "seed_0137_bdeo",
+    "source": "seed",
+    "title": "Go Developer",
+    "company": "Bdeo",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Go Developer at Bdeo. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/137",
+    "remote": false,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "arbeitnow_0138_baseca",
+    "source": "arbeitnow",
+    "title": "Go Developer",
+    "company": "Basecamp",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Go Developer at Basecamp. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/138",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "seed_0139_glovo",
+    "source": "seed",
+    "title": "Staff Engineer Python",
+    "company": "Glovo",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Staff Engineer Python at Glovo. Requirements: \n- Experience with python\n- Experience with machine learning\n- Experience with pandas\n- Experience with sql\n- Experience with aws\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "sql",
+      "aws"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/139",
+    "remote": false,
+    "date_posted": "2026-05-11"
+  },
+  {
+    "external_id": "arbeitnow_0140_twilio",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "Twilio",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a AI/LLM Engineer at Twilio. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/140",
+    "remote": false,
+    "date_posted": "2026-05-14"
+  },
+  {
+    "external_id": "remotive_0141_factor",
+    "source": "remotive",
+    "title": "Software Engineer Backend",
+    "company": "Factorial",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Software Engineer Backend at Factorial. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/141",
+    "remote": true,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "arbeitnow_0142_stripe",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Stripe",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Stripe. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/142",
+    "remote": true,
+    "date_posted": "2026-04-26"
+  },
+  {
+    "external_id": "remotive_0143_buffer",
+    "source": "remotive",
+    "title": "Data Engineer Python + SQL",
+    "company": "Buffer",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Data Engineer Python + SQL at Buffer. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/143",
+    "remote": false,
+    "date_posted": "2026-05-07"
+  },
+  {
+    "external_id": "arbeitnow_0144_turing",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Turing",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Remote Django Developer at Turing. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/144",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "remotive_0145_remote",
+    "source": "remotive",
+    "title": "Staff Engineer Python",
+    "company": "Remote",
+    "location": "Remote",
+    "description": "We are looking for a Staff Engineer Python at Remote. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/145",
+    "remote": true,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "arbeitnow_0146_turing",
+    "source": "arbeitnow",
+    "title": "Django Developer",
+    "company": "Turing",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Django Developer at Turing. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/146",
+    "remote": false,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "remotive_0147_joband",
+    "source": "remotive",
+    "title": "Senior Software Engineer",
+    "company": "Jobandtalent",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Senior Software Engineer at Jobandtalent. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/147",
+    "remote": false,
+    "date_posted": "2026-04-24"
+  },
+  {
+    "external_id": "seed_0148_factor",
+    "source": "seed",
+    "title": "Senior Python Engineer",
+    "company": "Factorial",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Senior Python Engineer at Factorial. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/148",
+    "remote": true,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "remotive_0149_flywir",
+    "source": "remotive",
+    "title": "Senior Software Engineer",
+    "company": "Flywire",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Senior Software Engineer at Flywire. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/149",
+    "remote": false,
+    "date_posted": "2026-04-28"
+  },
+  {
+    "external_id": "seed_0150_vercel",
+    "source": "seed",
+    "title": "Senior Software Engineer",
+    "company": "Vercel",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Senior Software Engineer at Vercel. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/150",
+    "remote": false,
+    "date_posted": "2026-04-13"
+  },
+  {
+    "external_id": "seed_0151_bdeo",
+    "source": "seed",
+    "title": "API Developer FastAPI",
+    "company": "Bdeo",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a API Developer FastAPI at Bdeo. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/151",
+    "remote": true,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "arbeitnow_0152_vercel",
+    "source": "arbeitnow",
+    "title": "Django Developer",
+    "company": "Vercel",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Django Developer at Vercel. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/152",
+    "remote": true,
+    "date_posted": "2026-04-25"
+  },
+  {
+    "external_id": "arbeitnow_0153_figma",
+    "source": "arbeitnow",
+    "title": "Cloud Engineer AWS/GCP",
+    "company": "Figma",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Cloud Engineer AWS/GCP at Figma. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/153",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "remotive_0154_factor",
+    "source": "remotive",
+    "title": "Cloud Engineer AWS/GCP",
+    "company": "Factorial",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Cloud Engineer AWS/GCP at Factorial. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/154",
+    "remote": true,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "arbeitnow_0155_buffer",
+    "source": "arbeitnow",
+    "title": "Backend Developer Python",
+    "company": "Buffer",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Backend Developer Python at Buffer. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/155",
+    "remote": false,
+    "date_posted": "2026-05-05"
+  },
+  {
+    "external_id": "seed_0156_travel",
+    "source": "seed",
+    "title": "Django Developer",
+    "company": "Travelperk",
+    "location": "London, UK",
+    "description": "We are looking for a Django Developer at Travelperk. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/156",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "arbeitnow_0157_wikime",
+    "source": "arbeitnow",
+    "title": "Principal Backend Engineer",
+    "company": "Wikimedia",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Wikimedia. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/157",
+    "remote": false,
+    "date_posted": "2026-04-26"
+  },
+  {
+    "external_id": "seed_0158_notion",
+    "source": "seed",
+    "title": "Python Developer (FastAPI)",
+    "company": "Notion",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Python Developer (FastAPI) at Notion. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/158",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "arbeitnow_0159_joband",
+    "source": "arbeitnow",
+    "title": "Flask Developer",
+    "company": "Jobandtalent",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Flask Developer at Jobandtalent. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/159",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "remotive_0160_turing",
+    "source": "remotive",
+    "title": "Principal Backend Engineer",
+    "company": "Turing",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Principal Backend Engineer at Turing. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/160",
+    "remote": false,
+    "date_posted": "2026-04-02"
+  },
+  {
+    "external_id": "arbeitnow_0161_intern",
+    "source": "arbeitnow",
+    "title": "Backend Developer Python",
+    "company": "Internxt",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Backend Developer Python at Internxt. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/161",
+    "remote": true,
+    "date_posted": "2026-04-14"
+  },
+  {
+    "external_id": "seed_0162_wikime",
+    "source": "seed",
+    "title": "Software Engineer Backend",
+    "company": "Wikimedia",
+    "location": "Remote (Spain)",
+    "description": "We are looking for a Software Engineer Backend at Wikimedia. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/162",
+    "remote": true,
+    "date_posted": "2026-05-08"
+  },
+  {
+    "external_id": "arbeitnow_0163_gitlab",
+    "source": "arbeitnow",
+    "title": "Platform Engineer",
+    "company": "GitLab",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Platform Engineer at GitLab. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/163",
+    "remote": false,
+    "date_posted": "2026-04-28"
+  },
+  {
+    "external_id": "arbeitnow_0164_cabify",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Cabify",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Remote Django Developer at Cabify. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/164",
+    "remote": true,
+    "date_posted": "2026-04-04"
+  },
+  {
+    "external_id": "arbeitnow_0165_flywir",
+    "source": "arbeitnow",
+    "title": "AI/LLM Engineer",
+    "company": "Flywire",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a AI/LLM Engineer at Flywire. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/165",
+    "remote": true,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "remotive_0166_bdeo",
+    "source": "remotive",
+    "title": "Flask Developer",
+    "company": "Bdeo",
+    "location": "London, UK",
+    "description": "We are looking for a Flask Developer at Bdeo. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/166",
+    "remote": false,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "arbeitnow_0167_clarit",
+    "source": "arbeitnow",
+    "title": "Senior Software Engineer",
+    "company": "Clarity AI",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Senior Software Engineer at Clarity AI. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/167",
+    "remote": false,
+    "date_posted": "2026-04-27"
+  },
+  {
+    "external_id": "arbeitnow_0168_wikime",
+    "source": "arbeitnow",
+    "title": "Platform Engineer",
+    "company": "Wikimedia",
+    "location": "Remote",
+    "description": "We are looking for a Platform Engineer at Wikimedia. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/168",
+    "remote": true,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "arbeitnow_0169_buffer",
+    "source": "arbeitnow",
+    "title": "Backend Developer Python",
+    "company": "Buffer",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Backend Developer Python at Buffer. Requirements: \n- Experience with python\n- Experience with scrapy\n- Experience with celery\n- Experience with redis\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "scrapy",
+      "celery",
+      "redis",
+      "postgresql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/169",
+    "remote": false,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "arbeitnow_0170_fever",
+    "source": "arbeitnow",
+    "title": "Python + ML Engineer",
+    "company": "Fever",
+    "location": "Remote (Europe)",
+    "description": "We are looking for a Python + ML Engineer at Fever. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/170",
+    "remote": true,
+    "date_posted": "2026-04-13"
+  },
+  {
+    "external_id": "remotive_0171_typefo",
+    "source": "remotive",
+    "title": "Principal Backend Engineer",
+    "company": "Typeform",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Principal Backend Engineer at Typeform. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/171",
+    "remote": false,
+    "date_posted": "2026-04-21"
+  },
+  {
+    "external_id": "remotive_0172_twilio",
+    "source": "remotive",
+    "title": "Principal Backend Engineer",
+    "company": "Twilio",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a Principal Backend Engineer at Twilio. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/172",
+    "remote": false,
+    "date_posted": "2026-04-20"
+  },
+  {
+    "external_id": "seed_0173_buffer",
+    "source": "seed",
+    "title": "Django Developer",
+    "company": "Buffer",
+    "location": "Valencia, Spain",
+    "description": "We are looking for a Django Developer at Buffer. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/173",
+    "remote": false,
+    "date_posted": "2026-04-25"
+  },
+  {
+    "external_id": "remotive_0174_datado",
+    "source": "remotive",
+    "title": "API Developer FastAPI",
+    "company": "Datadog",
+    "location": "Madrid, Spain",
+    "description": "We are looking for a API Developer FastAPI at Datadog. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/174",
+    "remote": false,
+    "date_posted": "2026-04-12"
+  },
+  {
+    "external_id": "arbeitnow_0175_remote",
+    "source": "arbeitnow",
+    "title": "Data Engineer Python + SQL",
+    "company": "Remote",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a Data Engineer Python + SQL at Remote. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/175",
+    "remote": false,
+    "date_posted": "2026-04-11"
+  },
+  {
+    "external_id": "remotive_0176_holded",
+    "source": "remotive",
+    "title": "Node.js Backend Developer",
+    "company": "Holded",
+    "location": "London, UK",
+    "description": "We are looking for a Node.js Backend Developer at Holded. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/176",
+    "remote": false,
+    "date_posted": "2026-04-20"
+  },
+  {
+    "external_id": "seed_0177_automa",
+    "source": "seed",
+    "title": "Flask Developer",
+    "company": "Automattic",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Flask Developer at Automattic. Requirements: \n- Experience with nodejs\n- Experience with typescript\n- Experience with express\n- Experience with mongodb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "typescript",
+      "express",
+      "mongodb",
+      "docker"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/177",
+    "remote": false,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "arbeitnow_0178_lingok",
+    "source": "arbeitnow",
+    "title": "Remote Django Developer",
+    "company": "Lingokids",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a Remote Django Developer at Lingokids. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/178",
+    "remote": true,
+    "date_posted": "2026-04-05"
+  },
+  {
+    "external_id": "arbeitnow_0179_factor",
+    "source": "arbeitnow",
+    "title": "Software Engineer Backend",
+    "company": "Factorial",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Software Engineer Backend at Factorial. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/179",
+    "remote": false,
+    "date_posted": "2026-05-01"
+  },
+  {
+    "external_id": "arbeitnow_0180_figma",
+    "source": "arbeitnow",
+    "title": "Full Stack Developer React + Node",
+    "company": "Figma",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Full Stack Developer React + Node at Figma. Requirements: \n- Experience with golang\n- Experience with kubernetes\n- Experience with docker\n- Experience with postgresql\n- Experience with grpc\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "golang",
+      "kubernetes",
+      "docker",
+      "postgresql",
+      "grpc"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/180",
+    "remote": false,
+    "date_posted": "2026-04-24"
+  },
+  {
+    "external_id": "seed_0181_linear",
+    "source": "seed",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Linear",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Backend Engineer (Microservices) at Linear. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/181",
+    "remote": false,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "remotive_0182_wikime",
+    "source": "remotive",
+    "title": "Python Developer (FastAPI)",
+    "company": "Wikimedia",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Python Developer (FastAPI) at Wikimedia. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/182",
+    "remote": false,
+    "date_posted": "2026-04-01"
+  },
+  {
+    "external_id": "seed_0183_canoni",
+    "source": "seed",
+    "title": "TypeScript Backend Engineer",
+    "company": "Canonical",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a TypeScript Backend Engineer at Canonical. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/183",
+    "remote": true,
+    "date_posted": "2026-04-28"
+  },
+  {
+    "external_id": "arbeitnow_0184_mozill",
+    "source": "arbeitnow",
+    "title": "Flask Developer",
+    "company": "Mozilla",
+    "location": "Remote",
+    "description": "We are looking for a Flask Developer at Mozilla. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/184",
+    "remote": true,
+    "date_posted": "2026-04-10"
+  },
+  {
+    "external_id": "arbeitnow_0185_joband",
+    "source": "arbeitnow",
+    "title": "Senior Software Engineer",
+    "company": "Jobandtalent",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Senior Software Engineer at Jobandtalent. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/185",
+    "remote": false,
+    "date_posted": "2026-04-18"
+  },
+  {
+    "external_id": "arbeitnow_0186_bdeo",
+    "source": "arbeitnow",
+    "title": "Senior Software Engineer",
+    "company": "Bdeo",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Senior Software Engineer at Bdeo. Requirements: \n- Experience with python\n- Experience with pandas\n- Experience with airflow\n- Experience with aws\n- Experience with sql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "pandas",
+      "airflow",
+      "aws",
+      "sql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/186",
+    "remote": false,
+    "date_posted": "2026-05-06"
+  },
+  {
+    "external_id": "seed_0187_holded",
+    "source": "seed",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Holded",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Holded. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/187",
+    "remote": true,
+    "date_posted": "2026-05-04"
+  },
+  {
+    "external_id": "remotive_0188_turing",
+    "source": "remotive",
+    "title": "Django Developer",
+    "company": "Turing",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Django Developer at Turing. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with docker\n- Experience with postgresql\n- Experience with rest api\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "postgresql",
+      "rest api"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/188",
+    "remote": false,
+    "date_posted": "2026-04-23"
+  },
+  {
+    "external_id": "remotive_0189_wallbo",
+    "source": "remotive",
+    "title": "Senior Python Engineer",
+    "company": "Wallbox",
+    "location": "Barcelona, Spain",
+    "description": "We are looking for a Senior Python Engineer at Wallbox. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/189",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "remotive_0190_wikime",
+    "source": "remotive",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Wikimedia",
+    "location": "Amsterdam, Netherlands",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Wikimedia. Requirements: \n- Experience with python\n- Experience with fastapi\n- Experience with llm\n- Experience with chromadb\n- Experience with docker\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "fastapi",
+      "llm",
+      "chromadb",
+      "docker"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/190",
+    "remote": false,
+    "date_posted": "2026-04-08"
+  },
+  {
+    "external_id": "remotive_0191_spotah",
+    "source": "remotive",
+    "title": "DevOps Engineer Docker/Kubernetes",
+    "company": "Spotahome",
+    "location": "Remote (Worldwide)",
+    "description": "We are looking for a DevOps Engineer Docker/Kubernetes at Spotahome. Requirements: \n- Experience with typescript\n- Experience with react\n- Experience with nextjs\n- Experience with postgresql\n- Experience with vercel\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "typescript",
+      "react",
+      "nextjs",
+      "postgresql",
+      "vercel"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/191",
+    "remote": true,
+    "date_posted": "2026-04-14"
+  },
+  {
+    "external_id": "remotive_0192_lingok",
+    "source": "remotive",
+    "title": "Python Developer (FastAPI)",
+    "company": "Lingokids",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Python Developer (FastAPI) at Lingokids. Requirements: \n- Experience with nodejs\n- Experience with react\n- Experience with postgresql\n- Experience with docker\n- Experience with github actions\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "nodejs",
+      "react",
+      "postgresql",
+      "docker",
+      "github actions"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/192",
+    "remote": false,
+    "date_posted": "2026-04-19"
+  },
+  {
+    "external_id": "arbeitnow_0193_badi",
+    "source": "arbeitnow",
+    "title": "Backend Engineer (Microservices)",
+    "company": "Badi",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Backend Engineer (Microservices) at Badi. Requirements: \n- Experience with python\n- Experience with flask\n- Experience with mongodb\n- Experience with git\n- Experience with linux\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "flask",
+      "mongodb",
+      "git",
+      "linux"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/193",
+    "remote": true,
+    "date_posted": "2026-03-31"
+  },
+  {
+    "external_id": "arbeitnow_0194_supaba",
+    "source": "arbeitnow",
+    "title": "Platform Engineer",
+    "company": "Supabase",
+    "location": "Remote",
+    "description": "We are looking for a Platform Engineer at Supabase. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/194",
+    "remote": true,
+    "date_posted": "2026-05-13"
+  },
+  {
+    "external_id": "remotive_0195_cloudf",
+    "source": "remotive",
+    "title": "Python Developer (FastAPI)",
+    "company": "Cloudflare",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a Python Developer (FastAPI) at Cloudflare. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/195",
+    "remote": false,
+    "date_posted": "2026-04-29"
+  },
+  {
+    "external_id": "arbeitnow_0196_automa",
+    "source": "arbeitnow",
+    "title": "Junior Python Developer",
+    "company": "Automattic",
+    "location": "London, UK",
+    "description": "We are looking for a Junior Python Developer at Automattic. Requirements: \n- Experience with python\n- Experience with django\n- Experience with postgresql\n- Experience with redis\n- Experience with docker\n- Experience with celery\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "postgresql",
+      "redis",
+      "docker",
+      "celery"
+    ],
+    "salary": "",
+    "url": "https://example.com/jobs/196",
+    "remote": false,
+    "date_posted": "2026-04-09"
+  },
+  {
+    "external_id": "remotive_0197_figma",
+    "source": "remotive",
+    "title": "Software Engineer Backend",
+    "company": "Figma",
+    "location": "Remote (LATAM + Spain)",
+    "description": "We are looking for a Software Engineer Backend at Figma. Requirements: \n- Experience with java\n- Experience with spring boot\n- Experience with docker\n- Experience with kubernetes\n- Experience with postgresql\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "java",
+      "spring boot",
+      "docker",
+      "kubernetes",
+      "postgresql"
+    ],
+    "salary": "45000-60000",
+    "url": "https://example.com/jobs/197",
+    "remote": true,
+    "date_posted": "2026-05-09"
+  },
+  {
+    "external_id": "remotive_0198_typefo",
+    "source": "remotive",
+    "title": "Python + ML Engineer",
+    "company": "Typeform",
+    "location": "Hybrid - Barcelona",
+    "description": "We are looking for a Python + ML Engineer at Typeform. Requirements: \n- Experience with python\n- Experience with llm\n- Experience with fastapi\n- Experience with docker\n- Experience with supabase\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "llm",
+      "fastapi",
+      "docker",
+      "supabase"
+    ],
+    "salary": "60000-80000",
+    "url": "https://example.com/jobs/198",
+    "remote": false,
+    "date_posted": "2026-04-14"
+  },
+  {
+    "external_id": "seed_0199_factor",
+    "source": "seed",
+    "title": "Go Developer",
+    "company": "Factorial",
+    "location": "Lisbon, Portugal",
+    "description": "We are looking for a Go Developer at Factorial. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "80000-100000",
+    "url": "https://example.com/jobs/199",
+    "remote": false,
+    "date_posted": "2026-05-04"
+  },
+  {
+    "external_id": "arbeitnow_0200_badi",
+    "source": "arbeitnow",
+    "title": "Fullstack Python Developer",
+    "company": "Badi",
+    "location": "Hybrid - Madrid",
+    "description": "We are looking for a Fullstack Python Developer at Badi. Requirements: \n- Experience with python\n- Experience with django\n- Experience with djangorestframework\n- Experience with postgresql\n- Experience with redis\n- Docker and containerization\n- REST API design\n- Git workflow and CI/CD",
+    "tags": [
+      "python",
+      "django",
+      "djangorestframework",
+      "postgresql",
+      "redis"
+    ],
+    "salary": "30000-45000",
+    "url": "https://example.com/jobs/200",
+    "remote": false,
+    "date_posted": "2026-04-08"
+  }
+]

@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Django Scraper Empleos — Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-base: #0f172a; /* Slate 900 */
+            --bg-surface: #1e293b; /* Slate 800 */
+            --bg-card: #0b0f19; /* Darker card */
+            --border: #334155; /* Slate 700 */
+            --primary: #3b82f6; /* Blue 500 */
+            --primary-glow: rgba(59, 130, 246, 0.5);
+            --secondary: #8b5cf6; /* Violet 500 */
+            --accent: #10b981; /* Emerald 500 */
+            --warning: #f59e0b; /* Amber 500 */
+            --danger: #ef4444; /* Red 500 */
+            --text-main: #f8fafc; /* Slate 50 */
+            --text-muted: #94a3b8; /* Slate 400 */
+            --radius-lg: 16px;
+            --radius-md: 12px;
+            --radius-sm: 8px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-main);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 { font-weight: 700; line-height: 1.2; }
+        .text-gradient {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            color: transparent;
+        }
+
+        /* Layout */
+        .container {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 0;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .brand {
+            font-size: 1.5rem;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            letter-spacing: -0.5px;
+        }
+        .brand-icon {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border-radius: var(--radius-sm);
+            display: grid;
+            place-items: center;
+            font-weight: 800;
+            font-size: 1.2rem;
+            box-shadow: 0 0 15px var(--primary-glow);
+        }
+        .nav-links {
+            display: flex;
+            gap: 1.5rem;
+        }
+        .nav-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 500;
+            transition: var(--transition);
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            background: rgba(255, 255, 255, 0.05);
+        }
+        .nav-link:hover {
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        /* Grid System */
+        .grid {
+            display: grid;
+            gap: 1.5rem;
+        }
+        .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
+        .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+        .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
+
+        @media (max-width: 1024px) {
+            .grid-cols-4 { grid-template-columns: repeat(2, 1fr); }
+            .grid-cols-3 { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 768px) {
+            .grid-cols-4, .grid-cols-3, .grid-cols-2 { grid-template-columns: 1fr; }
+            .container { padding: 1rem; }
+            .navbar { flex-direction: column; gap: 1rem; align-items: flex-start; }
+        }
+
+        /* Cards */
+        .card {
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            padding: 1.5rem;
+            position: relative;
+            overflow: hidden;
+            transition: var(--transition);
+        }
+        .card:hover {
+            border-color: rgba(59, 130, 246, 0.3);
+            box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+            transform: translateY(-2px);
+        }
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            opacity: 0;
+            transition: var(--transition);
+        }
+        .card:hover::before { opacity: 1; }
+
+        .card-header {
+            margin-bottom: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .card-title {
+            font-size: 1.1rem;
+            color: var(--text-muted);
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        /* Stats Card */
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-top: 0.5rem;
+            letter-spacing: -1px;
+            line-height: 1;
+        }
+        .stat-desc {
+            color: var(--text-muted);
+            font-size: 0.875rem;
+            margin-top: 0.5rem;
+        }
+
+        /* Chart Containers */
+        .chart-container {
+            position: relative;
+            height: 300px;
+            width: 100%;
+        }
+
+        /* Badges */
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .badge-success { background: rgba(16, 185, 129, 0.1); color: var(--accent); border: 1px solid rgba(16, 185, 129, 0.2); }
+        .badge-warning { background: rgba(245, 158, 11, 0.1); color: var(--warning); border: 1px solid rgba(245, 158, 11, 0.2); }
+        .badge-danger { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 1px solid rgba(239, 68, 68, 0.2); }
+        .badge-primary { background: rgba(59, 130, 246, 0.1); color: var(--primary); border: 1px solid rgba(59, 130, 246, 0.2); }
+
+        /* Tables */
+        .table-responsive {
+            overflow-x: auto;
+            margin-top: 1rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            background: var(--bg-card);
+        }
+        th, td {
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.9rem;
+        }
+        th {
+            background: rgba(255, 255, 255, 0.02);
+            color: var(--text-muted);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+        tbody tr {
+            transition: var(--transition);
+        }
+        tbody tr:hover {
+            background: rgba(255, 255, 255, 0.03);
+        }
+        tbody tr:last-child td { border-bottom: none; }
+        
+        .code-font {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+        }
+        
+        a { color: var(--primary); text-decoration: none; transition: var(--transition); }
+        a:hover { color: var(--secondary); }
+
+        /* Section Title */
+        .section-title {
+            margin: 3rem 0 1.5rem;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        .section-title::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, var(--border), transparent);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="brand">
+            <div class="brand-icon">S</div>
+            Django Scraper <span class="text-gradient">Empleos</span>
+        </div>
+        <div class="nav-links">
+            <a href="/api/jobs/" class="nav-link" target="_blank">Ver API Jobs</a>
+            <a href="/admin/" class="nav-link" target="_blank">Admin Panel</a>
+        </div>
+    </nav>
+
+    <!-- Stats Row -->
+    <div class="grid grid-cols-4">
+        <div class="card">
+            <div class="card-title">Total Ofertas</div>
+            <div class="stat-value text-gradient">{{ total }}</div>
+            <div class="stat-desc">Ofertas indexadas en BD</div>
+        </div>
+        <div class="card">
+            <div class="card-title">Trabajo Remoto</div>
+            <div class="stat-value" style="color: var(--accent);">{{ remote_pct }}%</div>
+            <div class="stat-desc">{{ remote_count }} ofertas 100% remotas</div>
+        </div>
+        <div class="card">
+            <div class="card-title">Top Skill</div>
+            {% if top_skills %}
+            <div class="stat-value" style="color: var(--warning); text-transform: capitalize;">{{ top_skills.0.0 }}</div>
+            <div class="stat-desc">{{ top_skills.0.1 }} menciones</div>
+            {% else %}
+            <div class="stat-value text-muted">N/A</div>
+            {% endif %}
+        </div>
+        <div class="card">
+            <div class="card-title">Última Ejecución</div>
+            {% if last_runs %}
+            <div class="stat-value" style="font-size: 1.5rem; margin-top: 1.2rem;">{{ last_runs.0.started_at|date:"d M H:i" }}</div>
+            <div class="stat-desc">Fuente: {{ last_runs.0.source }}</div>
+            {% else %}
+            <div class="stat-value text-muted" style="font-size: 1.5rem; margin-top: 1.2rem;">Sin datos</div>
+            {% endif %}
+        </div>
+    </div>
+
+    <h2 class="section-title">Análisis de Mercado</h2>
+
+    <!-- Charts Row -->
+    <div class="grid grid-cols-3">
+        <div class="card" style="grid-column: span 2;">
+            <div class="card-header">
+                <div class="card-title">Top 10 Skills Demandados</div>
+            </div>
+            <div class="chart-container">
+                <canvas id="skillsChart"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">Distribución por Fuente</div>
+            </div>
+            <div class="chart-container">
+                <canvas id="sourceChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tables Row -->
+    <div class="grid grid-cols-2" style="margin-top: 3rem;">
+        
+        <!-- Latest Jobs -->
+        <div>
+            <h2 class="section-title" style="margin-top: 0;">Últimas Ofertas</h2>
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Puesto</th>
+                            <th>Empresa</th>
+                            <th>Modalidad</th>
+                            <th>Fecha</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for job in latest_jobs|slice:":8" %}
+                        <tr>
+                            <td style="font-weight: 500;">
+                                <a href="{{ job.url }}" target="_blank">{{ job.title|truncatechars:40 }}</a>
+                            </td>
+                            <td>{{ job.company|truncatechars:20 }}</td>
+                            <td>
+                                {% if job.remote %}
+                                    <span class="badge badge-success">Remoto</span>
+                                {% else %}
+                                    <span class="badge badge-warning">Híbrido/Pres.</span>
+                                {% endif %}
+                            </td>
+                            <td class="code-font text-muted">{{ job.date_posted|date:"d M Y" }}</td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="4" style="text-align:center;">No hay ofertas registradas.</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Latest Runs -->
+        <div>
+            <h2 class="section-title" style="margin-top: 0;">Registro del Scraper</h2>
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Fecha / Hora</th>
+                            <th>Fuente</th>
+                            <th>Estado</th>
+                            <th>Resultados</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for run in last_runs %}
+                        <tr>
+                            <td class="code-font text-muted">{{ run.started_at|date:"d M, H:i" }}</td>
+                            <td style="text-transform: capitalize; font-weight: 500;">{{ run.source }}</td>
+                            <td>
+                                {% if run.status == 'success' %}
+                                    <span class="badge badge-success">OK</span>
+                                {% elif run.status == 'running' %}
+                                    <span class="badge badge-primary">Corriendo</span>
+                                {% else %}
+                                    <span class="badge badge-danger">Error</span>
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if run.status == 'success' %}
+                                    <span style="color:var(--accent)">+{{ run.jobs_new }}</span> / {{ run.jobs_found }}
+                                {% else %}
+                                    -
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="4" style="text-align:center;">No hay ejecuciones registradas.</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    // Configuración global de Chart.js para tema oscuro
+    Chart.defaults.color = '#94a3b8';
+    Chart.defaults.font.family = "'Outfit', sans-serif";
+    Chart.defaults.borderColor = '#334155';
+
+    document.addEventListener("DOMContentLoaded", function() {
+        // Fetch datos estadísticos
+        fetch('/api/stats/')
+            .then(res => res.json())
+            .then(data => {
+                if(data.error) {
+                    console.error("Error fetching stats:", data.error);
+                    return;
+                }
+                renderCharts(data);
+            })
+            .catch(err => console.error(err));
+    });
+
+    function renderCharts(data) {
+        // Preparar datos para Skills
+        const skillsKeys = Object.keys(data.top_skills).slice(0, 10);
+        const skillsValues = skillsKeys.map(k => data.top_skills[k]);
+        
+        // Preparar datos para Sources
+        const sourceKeys = Object.keys(data.by_source);
+        const sourceValues = sourceKeys.map(k => data.by_source[k]);
+
+        // Paleta de colores vibrantes
+        const gradientColors = [
+            'rgba(59, 130, 246, 0.8)', // primary
+            'rgba(139, 92, 246, 0.8)', // secondary
+            'rgba(16, 185, 129, 0.8)', // accent
+            'rgba(245, 158, 11, 0.8)', // warning
+            'rgba(239, 68, 68, 0.8)',  // danger
+            'rgba(6, 182, 212, 0.8)',  // cyan
+            'rgba(217, 70, 239, 0.8)', // fuchsia
+        ];
+
+        // --- Gráfico de Skills (Bar Horizontal) ---
+        const ctxSkills = document.getElementById('skillsChart').getContext('2d');
+        new Chart(ctxSkills, {
+            type: 'bar',
+            data: {
+                labels: skillsKeys.map(k => k.charAt(0).toUpperCase() + k.slice(1)), // Capitalize
+                datasets: [{
+                    label: 'Menciones',
+                    data: skillsValues,
+                    backgroundColor: 'rgba(59, 130, 246, 0.7)',
+                    borderColor: 'rgba(59, 130, 246, 1)',
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                        titleColor: '#fff',
+                        bodyColor: '#cbd5e1',
+                        padding: 10,
+                        borderColor: '#334155',
+                        borderWidth: 1
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(51, 65, 85, 0.5)' },
+                        ticks: { stepSize: 1 }
+                    },
+                    y: {
+                        grid: { display: false },
+                        ticks: { font: { weight: 500 } }
+                    }
+                }
+            }
+        });
+
+        // --- Gráfico de Fuentes (Doughnut) ---
+        const ctxSource = document.getElementById('sourceChart').getContext('2d');
+        new Chart(ctxSource, {
+            type: 'doughnut',
+            data: {
+                labels: sourceKeys.map(k => k.charAt(0).toUpperCase() + k.slice(1)),
+                datasets: [{
+                    data: sourceValues,
+                    backgroundColor: gradientColors,
+                    borderColor: '#0b0f19',
+                    borderWidth: 2,
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '70%',
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { padding: 20, usePointStyle: true }
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                        padding: 10,
+                        borderColor: '#334155',
+                        borderWidth: 1
+                    }
+                }
+            }
+        });
+    }
+</script>
+
+</body>
+</html>
